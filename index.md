@@ -6,7 +6,8 @@ A + grade by NAAC Top #42 school in india Member of AMDISA 50 + recruiting compa
 
 GITAM has been committed to excellence in higher education foraying into diversified disciplines of learning. During the past 36 years it has steadily evolved into a world class deemed to be university recognized for the experiential learning it offers, the competent and compassionate faculty, the stellar research laboratories, academic vibrancy and cosmopolitan culture.
 
-https://www.gitam.edu/assets/images/campus/bengaluru-campus-image.jpg
+![image](https://user-images.githubusercontent.com/89067974/136038008-43294a09-5b2d-4d5f-a7a6-002182f811cb.png)
+
 
 GITAM has been committed to excellence in higher education foraying into diversified disciplines of learning. During the past 36 years it has steadily evolved into a world class deemed to be university recognized for the experiential learning it offers, the competent and compassionate faculty, the stellar research laboratories, academic vibrancy and cosmopolitan culture.
 
