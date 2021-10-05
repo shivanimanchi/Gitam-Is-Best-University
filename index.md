@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+GITAM Is Best University
 
-You can use the [editor on GitHub](https://github.com/shivanimanchi/Gitam-Is-Best-University/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/89067974/136037503-ca2dd3c2-1bf5-40d4-9ff9-d1edfe7ecee5.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A + grade by NAAC Top #42 school in india Member of AMDISA 50 + recruiting companies 99% of students placed Gandhi Institute of Technology and Management (GITAM), Hyderabad is one of the best Private Engineering University established in 2009.
 
-### Markdown
+GITAM has been committed to excellence in higher education foraying into diversified disciplines of learning. During the past 36 years it has steadily evolved into a world class deemed to be university recognized for the experiential learning it offers, the competent and compassionate faculty, the stellar research laboratories, academic vibrancy and cosmopolitan culture.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.gitam.edu/assets/images/campus/bengaluru-campus-image.jpg
 
-```markdown
-Syntax highlighted code block
+GITAM has been committed to excellence in higher education foraying into diversified disciplines of learning. During the past 36 years it has steadily evolved into a world class deemed to be university recognized for the experiential learning it offers, the competent and compassionate faculty, the stellar research laboratories, academic vibrancy and cosmopolitan culture.
 
-# Header 1
-## Header 2
-### Header 3
+Dr. M .V. V. S. Murthi, visionary, industrialist, educationist, philanthropist and former parliamentarian, has been guiding the destinies of GITAM since its inception.
 
-- Bulleted
-- List
+GITAM has three campuses - its main campus at Visakhapatnam, off campuses at Hyderabad and Bengaluru. Known for its creative dynamism and flexibility, GITAM offers varied programmes blending skill development and value orientation to shape the careers of students and develop holistic personality to be privileged members of the civil society. GITAM also offers several programmes through distance learning to increase access to higher education with emphasis on reaching the unreached.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivanimanchi/Gitam-Is-Best-University/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+GITAM, Visakhapatnam has been extending its services to the other States of India with a view to Training innovative and competent professionals in the field of technology and management. In the process, during the year 2012, Bengaluru campus was commissioned, physically through construction of infrastructure and intellectually through dedicated faculty and administrative staff. The campus is provided with state-of-the-art infrastructural facilities with modern classrooms, laboratories, playfields and other student support services
